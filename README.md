@@ -1,16 +1,16 @@
-# book_tickets
+Book Tickets UI Flutter
 
-A new Flutter project.
+![Screenshot_14](https://user-images.githubusercontent.com/115038084/194904546-f4d84018-7cae-4262-8125-6a2c2e3cb57e.png)
 
-## Getting Started
+![Screenshot_15](https://user-images.githubusercontent.com/115038084/194904568-bf1880dd-2760-46cb-a055-4feb38d193c7.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_16](https://user-images.githubusercontent.com/115038084/194904581-74a13a4b-e076-4f59-8887-ba2de4c7e1e9.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_17](https://user-images.githubusercontent.com/115038084/194904595-69e2690c-a129-4843-a7de-1eb5c68abdc1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_18](https://user-images.githubusercontent.com/115038084/194904607-70ed3a34-1efd-453f-a338-ed47a713a52d.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_19](https://user-images.githubusercontent.com/115038084/194904620-13b8b554-1259-416e-a34b-09f8c029438d.png)
+
+![Screenshot_20](https://user-images.githubusercontent.com/115038084/194904630-41d42482-54c7-4c26-98e0-521d9443c2b7.png)
+
